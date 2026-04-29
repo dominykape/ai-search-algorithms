@@ -23,7 +23,7 @@ Three agents solve a 10x10 grid maze using different search strategies.
 
 **Run:**
 ```bash
-python maze_search.py
+python3 maze_search.py
 ```
 
 ## Key Concepts
